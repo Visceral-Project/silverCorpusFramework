@@ -4,4 +4,6 @@ A framework for computing silver corpus annotations by fusing expert annotations
 
 A detailed description of the framework and its components is given in SilverCorpusFramework.pdf of this repository.
 
-For support please contact Markus Krenn (markus.krenn at meduniwien.ac.at).
+For support please contact [Markus Krenn][contact_mkrenn]
+                                          
+[contact_mkrenn]: http://www.cir.meduniwien.ac.at/team/markus-krenn/
